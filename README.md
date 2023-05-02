@@ -1,7 +1,7 @@
 # CryptoClustering
 
 
-This assignment uses two unsupervied machine learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Both technioques are compared to deteremine if there is an impact of using fewer features to cluster data using KMeans. 
+This assignment uses two unsupervied machine learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Both techniques are compared to deteremine if there is an impact of using fewer features to cluster data using KMeans. **Technique 2** was used as the optimizimg technique.
 
 **TECHNIQUE 1**:
 
