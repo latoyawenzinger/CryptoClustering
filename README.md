@@ -31,5 +31,5 @@ This assignment uses two unsupervied machine learning techniques to predict if c
 - Plot one displays cluserting of the original data
 - Plot two displays clustering of the data being reducing to 3 features
 
-![image](https://user-images.githubusercontent.com/115582691/235748516-a9529288-2fc1-4733-a869-e90508e90757.png)
-![image](https://user-images.githubusercontent.com/115582691/235748385-7243f9ac-653c-477e-a3a5-1d9325218e8b.png)
+![image](https://user-images.githubusercontent.com/115582691/235753603-b3a1438e-6262-4ba8-aa03-55d7fa0dd4cb.png)
+![image](https://user-images.githubusercontent.com/115582691/235753676-4ca1f120-ea8e-4018-aded-436fd5dc3ac4.png)
