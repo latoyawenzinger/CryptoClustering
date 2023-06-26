@@ -1,7 +1,7 @@
 # CryptoClustering
 
 
-This assignment uses two unsupervied machine learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Both techniques are compared to deteremine if there is an impact of using fewer features to cluster data using KMeans. **Principal Component Analysis (PCA)** is an optimizing machine learning method that reduces large datasets into smaller ones. Eventhough the datasets are reduced, it still preserves most on the information. 
+This assignment uses two unsupervised machine learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Both techniques are compared to determine if there is an impact of using fewer features to cluster data using KMeans. **Principal Component Analysis (PCA)** is an optimizing machine learning method that reduces large datasets into smaller ones. Eventhough the datasets are reduced, it still preserves most on the information. 
 
 **TECHNIQUE 1**:
 
